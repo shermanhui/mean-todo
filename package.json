@@ -1,0 +1,32 @@
+{
+  "name": "mean-todo",
+  "version": "1.0.0",
+  "description": "to-do list with mean stack ",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shui91/mean-todo.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Express",
+    "Angular",
+    "Node"
+  ],
+  "author": "Sherman Hui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shui91/mean-todo/issues"
+  },
+  "homepage": "https://github.com/shui91/mean-todo#readme"
+}
